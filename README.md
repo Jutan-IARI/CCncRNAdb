@@ -1,2 +1,2 @@
 # CCncRNAdb
-Its a fisl ncRNA database
+Its a fish ncRNA database
